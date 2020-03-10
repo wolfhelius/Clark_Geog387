@@ -1,0 +1,6 @@
+*.yml
+*.pyc
+
+lib/.ipynb_checkpoints/*
+
+.DS*
